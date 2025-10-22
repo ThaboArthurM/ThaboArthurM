@@ -7,7 +7,7 @@
 
 -  I’m looking to collaborate on **open source-trading tool**
 
--  I’m looking for help with **github**
+-  I’m looking for help with **Building streaming pipelines**
 
 -  How to reach me **masondothaboarthur@gmail.com**
 
