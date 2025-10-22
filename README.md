@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thabo Arthur Masondo</h1>
 <h3 align="center">An aspiring Data Engineer and Solutions Architect</h3>
 
-- 🔭 I’m currently working on **building a CI/CD pipline**
+-  I’m currently working on **building a CI/CD pipline**
 
-- 🌱 I’m currently learning **AWS cloud platforms**
+-  I’m currently learning **AWS cloud platforms**
 
-- 👯 I’m looking to collaborate on **open source-trading tool**
+-  I’m looking to collaborate on **open source-trading tool**
 
-- 🤝 I’m looking for help with **github**
+-  I’m looking for help with **github**
 
-- 📫 How to reach me **masondothaboarthur@gmail.com**
+-  How to reach me **masondothaboarthur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
