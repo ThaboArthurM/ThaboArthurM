@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thabo Arthur Masondo</h1>
-<h3 align="center">An aspiring Data Engineer and Solutions Architect</h3>
+<h3 align="center">I am Data Engineer and Solutions Architect</h3>
 
 -  I’m currently working on **building a CI/CD pipline**
 
