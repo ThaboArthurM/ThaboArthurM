@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thabo Arthur Masondo</h1>
 <h3 align="center">Solutions Architect | Certified AWS Data Engineer | Cloud Specialist</h3>
 
-- 🚀 **Strategic Focus**: Designing and implementing scalable cloud architectures that bridge the gap between Data Engineering and Predictive Modeling.
-- 🔭 **Current Project**: Architecting an end-to-end **Credit Risk & Banking platform** using Microsoft Fabric and Databricks.
-- 🌱 **Specialization**: Mastering **CI/CD for Data (DataOps)** and automated machine learning pipelines.
-- 👯 **Collaboration**: Open to architectural design reviews and cloud-native open-source projects.
-- 💬 **Ask me about**: Medallion Architecture, AWS Well-Architected Framework, and Microsoft Fabric Ecosystem.
+-  **Strategic Focus**: Designing and implementing scalable cloud architectures that bridge the gap between Data Engineering and Predictive Modeling.
+-  **Current Project**: Architecting an end-to-end **Credit Risk & Banking platform** using Microsoft Fabric and Databricks.
+-  **Specialization**: Mastering **CI/CD for Data (DataOps)** and automated machine learning pipelines.
+-  **Collaboration**: Open to architectural design reviews and cloud-native open-source projects.
+-  **Ask me about**: Medallion Architecture, AWS Well-Architected Framework, and Microsoft Fabric Ecosystem.
 
 <h3 align="left">Certifications & Credentials:</h3>
 <p align="left">
